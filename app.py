@@ -37,7 +37,7 @@ def main():
     hel= st.text_input('Enter expenditure on health (% GDP):')
     inc= st.text_input('Enter average income')
     inf= st.text_input('Enter Inflation')
-    exp = st.text_input('Enter life expectancy')
+    life_exp = st.text_input('Enter life expectancy')
     fer= st.text_input('Enter the fertility')
     gdp = st.text_input('Enter GDP per population')
 
